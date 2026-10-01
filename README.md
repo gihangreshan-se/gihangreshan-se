@@ -6,8 +6,8 @@
 <p>
   <a href="https://www.youtube.com/c/gihangreshan-y"><img src="https://img.shields.io/badge/SUBSCRIBE-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=555" alt="YouTube"></a>
   <a href="https://linkedin.com/in/gihangreshan"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" alt="LinkedIn"></a>
-  <a href="https://github.com/gihangreshan-dev"><img src="https://img.shields.io/github/followers/gihangreshan-dev?label=FOLLOW&style=for-the-badge&logo=github&color=1f6feb&labelColor=555" alt="GitHub followers"></a>
-  <a href="https://github.com/gihangreshan-dev?tab=repositories"><img src="https://img.shields.io/github/stars/gihangreshangit?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&color=4c9a0b&labelColor=555" alt="GitHub stars"></a>
+  <a href="https://github.com/gihangreshan-se"><img src="https://img.shields.io/github/followers/gihangreshan-se?label=FOLLOW&style=for-the-badge&logo=github&color=1f6feb&labelColor=555" alt="GitHub followers"></a>
+  <a href="https://github.com/gihangreshan-se?tab=repositories"><img src="https://img.shields.io/github/stars/gihangreshan-se?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&color=4c9a0b&labelColor=555" alt="GitHub stars"></a>
   <a href="https://gihangreshan.dev"><img src="https://img.shields.io/badge/VISIT-gihangreshan.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=555" alt="Website"></a>
 </p>
 
@@ -58,6 +58,6 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gihangreshan-dev&show_icons=true&locale=en&hide_title=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihangreshan-dev&layout=compact&locale=en&hide_title=true" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gihangreshan-se&show_icons=true&locale=en&hide_title=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihangreshan-se&layout=compact&locale=en&hide_title=true" alt="Top languages" />
 </p>
