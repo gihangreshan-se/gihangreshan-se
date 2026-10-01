@@ -1,6 +1,6 @@
 ## 👨‍💻Gihan Greshan
 
-<code>QA Engineer</code>
+<code>Software Engineer</code>
 
 <p>I am a software engineer, QA enthusiastic, blogger and content creator.</p>
 <p>
